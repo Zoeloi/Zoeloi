@@ -1,6 +1,7 @@
 
+![a9ec87cb-3a8a-4f2f-bfc8-e2f506b926c0](https://github.com/user-attachments/assets/389edf66-f73e-4526-b51a-7df3e593bb31)
 
-![abdc5fab-d63c-430d-b9e7-7bcc83bd0669](https://github.com/user-attachments/assets/edd64617-8668-4559-9581-912655e35992)
+
 
 
 👋 ¡Hola! Mi nombre es Eddy Almendarez
