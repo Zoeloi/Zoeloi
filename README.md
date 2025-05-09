@@ -7,22 +7,32 @@
 👋 ¡Hola! Mi nombre es Eddy Almendarez
 🎓 Estudiante de la Universidad Americana (UAM - Nicaragua)
 
-  💻 Apasionado por la ciberseguridad y el desarrollo de software de escritorio. Actualmente me estoy enfocando al 100% en aprender:
+💻 Soy un apasionado del Desarrollo Web y actualmente estoy comprometido al 100% en convertirme en un Desarrollador Full Stack.
 
-🐍 Python
-☕ Java
-🌱 Git
-🛡️ Hacking Ético (siguiendo la metodología de mi mentor)
-🧠 También trabajo con editores de código como Visual Studio y PyCharm, y estoy comenzando a explorar el mundo del Bash scripting 🐚 para automatizar tareas y fortalecer mis habilidades en sistemas.
+🚀 Actualmente estoy aprendiendo y mejorando mis habilidades en:
 
-  🧰 Skills:
+🌐 Frontend:
+HTML
 
-🖥️ Desarrollo de software de escritorio
+CSS
 
-🔓 Seguridad ofensiva (Red Team / Ethical Hacking)
+JavaScript
 
-🔧 Control de versiones con Git
+ReactJS
 
-🧑‍💻 Entornos de desarrollo (VS Code, PyCharm)
+🔙 Backend:
+Python (con Django)
 
-📜 Fundamentos de scripting en Bas
+Java (con Spring Boot)
+
+SQL utilizando PostgreSQL
+
+🧰 Herramientas y Tecnologías:
+Git para control de versiones
+
+Visual Studio Code y PyCharm como entornos de desarrollo
+
+Explorando Bash scripting 🐚 para automatizar tareas y fortalecer conocimientos en sistemas
+
+📈 Mi objetivo es dominar tanto el lado del cliente como el del servidor, construir aplicaciones robustas, escalables y estar preparado para enfrentar cualquier reto en el mundo del desarrollo web.
+
